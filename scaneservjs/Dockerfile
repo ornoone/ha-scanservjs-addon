@@ -1,0 +1,1 @@
+FROM sbs20/scanservjs:latest
